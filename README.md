@@ -4,15 +4,14 @@
   Hello World
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN5aGdiY2JrNmNpeW5xdDhqYnJvazM0dzlza2sxdnVqMjI3OTkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/> -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpeGZleGJtOGc2Y2Vpajk0cXo3cXF3OGlpNWl4dmJtOTk3Ym01eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="300"/>
-</div>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJpeGZleGJtOGc2Y2Vpajk0cXo3cXF3OGlpNWl4dmJtOTk3Ym01eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="300"/>
+
 </div>
 
 ---
 
 ## :woman_technologist: About Me 
+
 I am Trang, a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam 🇻🇳.
 - :telescope: I'm currently building Shopify websites and web applications.
 
@@ -37,31 +36,3 @@ I am Trang, a Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<!--
-  <img src="https://komarev.com/ghpvc/?username=vantrangaof&style=flat-square&color=blue" alt=""/>
-
-  <div id="badges">
-  <a href="[your-linkedin-URL](https://www.facebook.com/trang.van.142">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/trang.van.142">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  </div>
-**vantrangaof/vantrangaof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
